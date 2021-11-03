@@ -1,0 +1,118 @@
+.content {
+  width: 400px;
+  height: 680px;
+  background-color: black;
+  color: white;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  border-style: solid;
+}
+.outer {
+  width: 430px;
+  height: 700px;
+  padding-top: 10px;
+  background-color: black;
+  color: white;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  border-style: solid;
+}
+.input {
+  height: 120px;
+  width: 396px;
+  border-style: solid;
+  border-color: black;
+  border-bottom: none;
+  background-color: thistle;
+}
+.output {
+  height: 60px;
+  width: 396px;
+  border-style: solid;
+  border-top: none;
+  border-color: black;
+  background-color: thistle;
+}
+.first,
+.second,
+.third,
+.fourth {
+  height: 84px;
+  width: 396px;
+  border-style: solid;
+}
+.fifth {
+  border-style: solid;
+  height: 84px;
+  width: 396px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+.ac,
+.c,
+.negative,
+.data-number,
+.data-operation,
+.decimal,
+.equals,
+.per,
+.decimal {
+  width: 95px;
+  display: inline-block;
+  font-weight: bolder;
+  font-size: 20px;
+  text-align: center;
+  border-style: solid;
+  height: 74px;
+  padding-top: 30px;
+  background-color: black;
+  color: floralwhite;
+}
+.ac:hover,
+.c:hover,
+.negative:hover,
+.per:hover,
+.data-number:hover,
+.data-operation:hover,
+.equals:hover,
+.decimal:hover {
+  width: 90px;
+  display: inline-block;
+  font-weight: bolder;
+  font-size: 20px;
+  text-align: center;
+  border-style: solid;
+  height: 54px;
+  padding-top: 30px;
+  background-color: white;
+  color: black;
+}
+.input {
+  color: black;
+  text-align: right;
+  font-weight: bolder;
+  font-size: 40px;
+}
+.git {
+  margin-left: 50px;
+  color: white;
+  width: 100px;
+  height: 34px;
+  display: inline;
+}
+.git-img {
+  width: 30px;
+  height: 30px;
+}
+.git-icon {
+  width: 50px;
+  height: 40px;
+  background-color: floralwhite;
+  border-style: solid;
+  border-color: maroon;
+  border-radius: 90px;
+}
